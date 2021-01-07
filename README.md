@@ -1,1 +1,1 @@
-# debuged apk used for testing 
+# shopping cart app like flipkart amazon
